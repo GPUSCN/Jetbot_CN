@@ -1,4 +1,4 @@
-# 这里列出 NVIDIA Jetson Nano 产品与 Jetbot 项目所需的下载链接
+## 这里列出 NVIDIA Jetson Nano 产品与 Jetbot 项目所需的下载链接
 #### 刷机使用软件 balenaEtcher：
 - Windows 板：链接: https://pan.baidu.com/s/1wHpZhrK1J5UPT2yhBsOCKQ 提取码: xcet
 - Ubuntu    版：链接: https://pan.baidu.com/s/1rahJxWVVVffCSj6R0ZNZ4w 提取码: iqgb
@@ -11,4 +11,4 @@
 - 链接: https://pan.baidu.com/s/12mQytm6rXnJNNNBbGLzX8A 提取码: cjb9
 #### Jetbot Demo3（避撞）：
 - 预训练模型：best_model.pth, 链接: https://pan.baidu.com/s/1t-VGxV16bX9MQKqjQN4EsQ 提取码: kkmt
-- 
+（补充中）
